@@ -9,7 +9,9 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 They'd like a data engineer to create a Postgres database with tables designed to optimize queries on song play analysis, and bring you on the project. Your role is to create a database schema and ETL pipeline for this analysis. You'll be able to test your database and ETL pipeline by running queries given to you by the analytics team from Sparkify and compare your results with their expected results.
 
-## How to run the python script
+## How to run the python script. 
+make sure python is installed.
+
 - open up your terminal
 - run python create_tables.py
 - run python etl.py
